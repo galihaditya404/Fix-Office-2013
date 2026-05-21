@@ -13,7 +13,8 @@ Keep Learning, Developing, Sharing and Improving.
 
 **Solusi 3**
 1. Tombol Windows + R, ketik %programdata%.
-2. Cari folder Microsoft Help ubah Microsoft Help.old
+2. Kalau tidak ada, checklist hidden files kemudian masuk program data
+3. Cari folder Microsoft Help ubah Microsoft Help.old
 
 **Solusi 4**
 1. Klik tombol Windows, cari Task Scheduler.
